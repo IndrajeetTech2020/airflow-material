@@ -1,0 +1,7 @@
+#!/home/indrajeet/Downloads/airflow-materials/airflow-materials/airflow-section-7/venv2/bin/python
+import json_merge_patch.cli
+json_merge_patch.cli.main()
+
+
+
+
